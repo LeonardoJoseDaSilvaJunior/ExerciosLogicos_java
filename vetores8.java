@@ -5,6 +5,8 @@ escreva esses caracteres, separadamente e por extenso.*/
 
 import java.util.Scanner;
 public class vetores8 {
+    public static void main(String[] args) {
+
 	Scanner ler = new Scanner (System.in);
 	String numero = ler.next();
 	final int TAMANHO = numero.length();		
