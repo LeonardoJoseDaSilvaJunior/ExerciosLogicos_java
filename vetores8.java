@@ -40,6 +40,7 @@ public class vetores8 {
 		}
 		else if(array[i] == '9'){
 			System.out.print("nove | ");
-		}				
-	}
+		}
+	}	
+    }
 }
